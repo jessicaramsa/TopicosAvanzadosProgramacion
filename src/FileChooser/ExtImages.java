@@ -43,7 +43,6 @@ public class ExtImages {
     private void atributos() {
         window.setSize(630, 590);
         window.setDefaultCloseOperation(3);
-        window.setLayout(null);
         window.setResizable(false);
         window.setLocationRelativeTo(null);
 
